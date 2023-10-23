@@ -76,7 +76,7 @@ namespace App {
 
             Output.Line($"3. Number Count: {NCnt}");
 
-            Output.Line($"Special Character Count (Including Spaces): {SpecCCNoS}\nSpace Count: {SpaceCount}");
+            Output.Line($"4. Other Metrics\n\tA. Special Character Count (Including Spaces): {SpecCCNoS}\n\tB. Space Count: {SpaceCount}");
 
             // THIS SHOULD BE THE LAST STATEMENT FOR MAIN
             Console.Read();
